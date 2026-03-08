@@ -1,0 +1,2 @@
+# Disaster-Preparedness-and-Response-Education-System-for-Schools-and-Colleges-
+The Disaster Preparedness and Response Education System for Schools and Colleges is a digital platform designed to educate students, teachers, and institutional staff about disaster management and emergency response. Educational institutions often face risks from disasters such as fires, earthquakes, floods, cyclones, and medical emerge
